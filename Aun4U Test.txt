@@ -1,0 +1,190 @@
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://iptv36.vercel.app/epg.xml, https://akkradet.github.io/IPTV-THAI/guide.xml, https://www.open-epg.com/generate/nctKTthKnG.xml.gz, https://www.open-epg.com/files/thailand1.xml.gz, https://www.open-epg.com/files/thailand2.xml.gz, https://www.open-epg.com/files/albania1.xml.gz, https://www.open-epg.com/files/australia1.xml.gz, https://www.open-epg.com/files/belgium1.xml.gz, https://www.open-epg.com/files/brazil1.xml.gz, https://www.open-epg.com/files/bulgaria1.xml.gz, https://www.open-epg.com/files/bulgaria2.xml.gz, https://www.open-epg.com/files/canada2.xml.gz, https://www.open-epg.com/files/china.xml.gz, https://www.open-epg.com/files/china3.xml.gz, https://www.open-epg.com/files/croatia3.xml.gz, https://www.open-epg.com/files/estonia1.xml.gz, https://www.open-epg.com/files/france1.xml.gz, https://www.open-epg.com/files/germany1.xml.gz, https://www.open-epg.com/files/germany2.xml.gz, https://www.open-epg.com/files/greece2.xml.gz, https://www.open-epg.com/files/hongkong1.xml.gz, https://www.open-epg.com/files/hongkong2.xml.gz, https://www.open-epg.com/files/hongkong4.xml.gz, https://www.open-epg.com/files/india1.xml.gz, https://www.open-epg.com/files/india3.xml.gz, https://www.open-epg.com/files/indonesia1.xml.gz, https://www.open-epg.com/files/indonesia3.xml.gz, https://www.open-epg.com/files/italy1.xml.gz, https://www.open-epg.com/files/japan1.xml.gz, https://www.open-epg.com/files/korea1.xml.gz, https://www.open-epg.com/files/latvia.xml.gz, https://www.open-epg.com/files/malaysia2.xml.gz, https://www.open-epg.com/files/netherlands2.xml.gz, https://www.open-epg.com/files/newzealand1.xml.gz, https://www.open-epg.com/files/netherlands1.xml.gz, https://www.open-epg.com/files/philippines1.xml.gz, https://www.open-epg.com/files/poland1.xml.gz, https://www.open-epg.com/files/portugal1.xml.gz, https://www.open-epg.com/files/portugal2.xml.gz, https://www.open-epg.com/files/qatar1.xml.gz, https://www.open-epg.com/files/romania1.xml.gz, https://www.open-epg.com/files/serbia1.xml.gz, https://www.open-epg.com/files/serbia2.xml.gz, https://www.open-epg.com/files/serbia3.xml.gz, https://www.open-epg.com/files/serbia4.xml.gz, https://www.open-epg.com/files/singapore1.xml.gz, https://www.open-epg.com/files/southafrica1.xml.gz, https://www.open-epg.com/files/southafrica2.xml.gz, https://www.open-epg.com/files/southafrica3.xml.gz, https://www.open-epg.com/files/spain1.xml.gz, https://www.open-epg.com/files/sports1.xml.gz, https://www.open-epg.com/files/sweden1.xml.gz, https://www.open-epg.com/files/taiwan1.xml.gz, https://www.open-epg.com/files/uae2.xml.gz, https://www.open-epg.com/files/uae6.xml.gz, https://www.open-epg.com/files/unitedkingdom1.xml.gz, https://www.open-epg.com/files/unitedkingdom2.xml.gz, https://www.open-epg.com/files/unitedkingdom3.xml.gz, https://www.open-epg.com/files/unitedkingdom4.xml.gz, https://www.open-epg.com/files/unitedkingdom5.xml.gz, https://www.open-epg.com/files/unitedstates1.xml.gz, https://www.open-epg.com/files/unitedstates3.xml.gz, https://www.open-epg.com/files/unitedstates11.xml.gz, https://www.open-epg.com/files/unitedstates4.xml.gz, http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+
+👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑    ช่องโปรด   👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 
+
+👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑    ช่องโปรด   👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 👑 
+
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PACKAGES_192.png"
+
+#EXTINF:-1 ch-number="33" tvg-id="3 HD.th" tvg-name="3 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/CH3HD1.svg/revision/latest?cb=20200606120128" group-title="ช่องโปรด",CH3 ᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+EXTINF:-1 ch-number="33" tvg-id="3 HD.th" tvg-name="3 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/CH3HD1.svg/revision/latest?cb=20200606120128" group-title="ช่องโปรด",CH3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ch3plus.com
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/ch3.m3u8
+https://www.livedoomovies.com/02_3HD_720p/playlist.m3u8
+
+#EXTINF:-1 ch-number="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/CH7HDLogo.svg/revision/latest/scale-to-width-down/250?cb=20231127094502" group-title="ช่องโปรด",CH7 ᴴᴰ
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/ch7.m3u8
+
+#EXTINF:-1 ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20240505232559" group-title="ช่องโปรด",Thai PBS ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 ch-number="4" tvg-id="" tvg-name="" tvg-logo="https://support.vipa.me/storage/logo/white.png" group-title="ช่องโปรด",VIPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8
+
+#EXTINF:-1 ch-number="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD.th" tvg-logo="https://api-service.mcot.net/data/section/292/8b01e407-3268-48f9-b933-19089b255d6c.png" group-title="ช่องโปรด",MCOT ᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+EXTINF:-1 ch-number="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD.th" tvg-logo="https://api-service.mcot.net/data/section/292/8b01e407-3268-48f9-b933-19089b255d6c.png" group-title="ช่องโปรด",MCOT ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.mcot.net/
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+
+EXTINF:-1 ch-number="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png/revision/latest?cb=20170627120817" group-title="ช่องโปรด",one31 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.oned.net/
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 ch-number="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png/revision/latest?cb=20170627120817" group-title="ช่องโปรด",one31 ᴴᴰ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+#EXTINF:-1 ch-number="32" tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD.th" tvg-logo="https://docs.google.com/uc?export=download&id=1MejNRpkasu2fYHE6ItScucH70-9wuXx_" group-title="ช่องโปรด",Thairath TV ᴴᴰ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+EXTINF:-1 ch-number="32" tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD.th" tvg-logo="https://docs.google.com/uc?export=download&id=1MejNRpkasu2fYHE6ItScucH70-9wuXx_" group-title="ช่องโปรด",Thairath TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/tv/live
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+#EXTINF:-1 ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="ช่องโปรด",AMARIN ᴴᴰ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+EXTINF:-1 ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="ช่องโปรด",AMARIN ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/02_AMARINHD_720p/playlist.m3u8
+http://45.144.166.242:1935/AmarinTV/t3_amarintv/chunklist.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/amarin.m3u8
+
+#EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
+
+EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+
+EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+EXTINF:-1 codec="external,auto" ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/
+https://tv.trueid.net/th-th/live/pptv-hd?autoplay=yes&nopageview=yes|Referer=https://tv.trueid.net/
+
+EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://love.uh6wzyncw9.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
+
+#EXTINF:-1 ch-number="1" tvg-id="" tvg-name="" tvg-logo="https://www.rama.mahidol.ac.th/ramachannel/wp-content/uploads/2023/03/logo-rama-white.png" group-title="ช่องโปรด",RAMA CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title="ช่องโปรด", like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://ramach.ddns.net/live/ramalive/index.m3u8
+
+EXTINF:-1 codec="external,auto" ch-number="1" tvg-id="" tvg-name="" tvg-logo="https://www.rama.mahidol.ac.th/ramachannel/wp-content/uploads/2023/03/logo-rama-white.png" group-title="ช่องโปรด",RAMA CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/
+https://tv.trueid.net/th-th/live/rama-channel?autoplay=yes&nopageview=yes|Referer=https://tv.trueid.net/
+
+#EXTINF:-1 ch-number="22" tvg-id="Nation TV.th" tvg-name="Nation TV.th" tvg-logo="https://docs.google.com/uc?export=download&id=1vKf6zPlS797UBk_N4ypzjDPCfqy7yXdu" group-title="ช่องโปรด",NATION ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.nationtv.tv/
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/nation.m3u8
+
+#EXTINF:-1 ch-number="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV.th" tvg-logo="https://docs.google.com/uc?export=download&id=1jQs62ADDZfmAj4yb77Jz4FL5qMwSMFNh" group-title="ช่องโปรด",Workpoint ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.sooplive.com/workpoint/embed
+https://live-global-cdn-v02.sooplive.com/live-stmc-24/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Ea1KawqJzgFwyE9VgXDw34hzTlDlV5kd0mzmqeCI57UKf3FEtoUXz8m2UUoYi4e7u-0-dAiz6jl1rj43WDuXevXmmEapuuwgBz1sTX9Duud_Z3c5KEJo9YwMDUB-XvaR-4bCwtVBmGD1Usz8pUvJZjIvBzL5mEEtuQidZI6D9xXLSTI0xJenT6Y2R7q7_Zbr
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=15
+https://www.livedoomovies.com:4431/02_WORKPOINT_720p/playlist.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/workpoint.m3u8
+
+EXTINF:-1 ch-number="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV.th" tvg-logo="https://docs.google.com/uc?export=download&id=1jQs62ADDZfmAj4yb77Jz4FL5qMwSMFNh" group-title="ช่องโปรด",Workpoint 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="ช่องโปรด",GMM25 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.oned.net/
+https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
+https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
+EXTINF:-1 ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="ช่องโปรด",GMM25 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 ch-number="27" tvg-id="CH8.th" tvg-name="CH8.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Channel82024.svg/revision/latest/scale-to-width-down/150?cb=20241231172210" group-title="ช่องโปรด",CH8 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaich8.com/
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/ch8.m3u8
+
+EXTINF:-1 ch-number="27" tvg-id="CH8.th" tvg-name="CH8.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Channel82024.svg/revision/latest/scale-to-width-down/150?cb=20241231172210" group-title="ช่องโปรด",CH8 ᴴᴰ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 ch-number="16" tvg-id="TNN.th" tvg-name="TNN.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg/revision/latest?cb=20200703040406" group-title="ช่องโปรด",TNN16
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+EXTINF:-1 ch-number="16" tvg-id="TNN.th" tvg-name="TNN.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg/revision/latest?cb=20200703040406" group-title="ช่องโปรด",TNN16
+http://45.144.166.242:1935/TNN/t3_tnn/chunklist.m3u8
+
+#EXTINF:-1 ch-number="24" tvg-id="True 4 U.th" tvg-name="True 4 U.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/True4U4.png/revision/latest?cb=20160521055406" group-title="ช่องโปรด",true4U ᴴᴰ
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+https://iptv36.vercel.app/nosignal.m3u8?ch=true4u
+https://iptv36.vercel.app/api/true.m3u8?channel=pptv
+
+
+
+
+
+
+
+
+
