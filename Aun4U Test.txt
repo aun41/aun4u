@@ -14,13 +14,6 @@
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
-EXTINF:-1 ch-number="33" tvg-id="3 HD.th" tvg-name="3 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/CH3HD1.svg/revision/latest?cb=20200606120128" group-title="ช่องโปรด",CH3 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ch3plus.com
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
-https://lb-gmmz.sky-cdn.com/gmm/ch3.m3u8
-https://www.livedoomovies.com/02_3HD_720p/playlist.m3u8
-
 #EXTINF:-1 ch-number="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/CH7HDLogo.svg/revision/latest/scale-to-width-down/250?cb=20231127094502" group-title="ช่องโปรด",CH7 ᴴᴰ
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
@@ -39,18 +32,6 @@ https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
-EXTINF:-1 ch-number="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD.th" tvg-logo="https://api-service.mcot.net/data/section/292/8b01e407-3268-48f9-b933-19089b255d6c.png" group-title="ช่องโปรด",MCOT ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.mcot.net/
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-
-EXTINF:-1 ch-number="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png/revision/latest?cb=20170627120817" group-title="ช่องโปรด",one31 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.oned.net/
-https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-
 #EXTINF:-1 ch-number="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png/revision/latest?cb=20170627120817" group-title="ช่องโปรด",one31 ᴴᴰ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -65,11 +46,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-EXTINF:-1 ch-number="32" tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD.th" tvg-logo="https://docs.google.com/uc?export=download&id=1MejNRpkasu2fYHE6ItScucH70-9wuXx_" group-title="ช่องโปรด",Thairath TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/tv/live
-https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
-
 #EXTINF:-1 ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="ช่องโปรด",AMARIN ᴴᴰ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -77,19 +53,9 @@ https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
-EXTINF:-1 ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="ช่องโปรด",AMARIN ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://www.livedoomovies.com:4431/02_AMARINHD_720p/playlist.m3u8
-http://45.144.166.242:1935/AmarinTV/t3_amarintv/chunklist.m3u8
-https://lb-gmmz.sky-cdn.com/gmm/amarin.m3u8
-
 #EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
-
-EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
 
 EXTINF:-1 ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="ช่องโปรด",PPTV ᴴᴰ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
